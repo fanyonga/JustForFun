@@ -36,12 +36,12 @@ void backdate(int n)
         }
         if(a[k]<=n)
         {
-            if(k == n)
+            if(k == n) //找到一组解，输出
                 output(n);
             else
             {
                 k++;
-                a[k]=0;
+                a[k]=0;//下个皇后从头开始搜索
             }
         }
         else

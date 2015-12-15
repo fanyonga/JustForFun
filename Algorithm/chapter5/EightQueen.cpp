@@ -42,23 +42,9 @@ int main()
                                     if(!check(a,8)) continue;
                                     else
                                     {
-
-                                        for(i=1;i<=8;i++)
-                                        {
-                                            for(j=1;j<=8;j++)
-                                            {
-                                                if(a[i]==j)
-                                                {
-                                                    printf("1 ");
-                                                }
-                                                else
-                                                {
-                                                    printf("0 ");
-                                                }
-                                            }
-                                            printf("\n");
-                                        }
-                                        printf("\n");
+										for(i=1;i<=8;i++)
+										  printf("%d ",a[i]);
+										printf("\n");
                                         sum++;
                                     }
                                 }
