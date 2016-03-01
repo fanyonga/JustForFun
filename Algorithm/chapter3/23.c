@@ -8,7 +8,8 @@ main()
 {
 	int n,i,j;
 	int a[10][10];
-	printf("Input a series of number:(0<=n<=9):\n");
+	int result=0;
+	printf("Input a series of number:(0<=n<=9),please use -1 as the end;:\n");
 	int front=-1;
 	for(i=0;i<10;i++)
 	  for(j=0;j<10;j++)
@@ -23,7 +24,7 @@ main()
 		}
 		front=n;
 	}
-	printf("The time the numbers appears is :\n");
+	printf("The time of the numbers appears is :\n");
 	for(i=0;i<10;i++)
 	{
 		for(j=i;j<10;j++)
@@ -31,7 +32,8 @@ main()
 			if(a[i][j]>0&&a[j][i]>0)
 			{
 			  
-			  if(i==j&a[i][j]<=1) break; 
+			  if(i==j&a[i][j]<=1) break;
+			  result=1;
 			  printf("(%d,%d)=%d ",i,j,a[i][j]);
 			  if(i==j&&a[i][j]>1)
 			  {
@@ -42,4 +44,6 @@ main()
 			}
 		}
 	}
+	if(result==0)
+	  printf("Non resolution!\n");
 }
