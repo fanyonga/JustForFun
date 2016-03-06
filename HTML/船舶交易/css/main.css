@@ -1,0 +1,9 @@
+*{padding: 0;margin: 0;text-align: center;text-decoration: none;}
+.wrap{width: 985px ;margin: 0 auto;background: #87B5C4 url(../img/homeback01.jpg) repeat-x;}
+.title{width:985px;height: 124px;background: url(../img/logobg.png)  no-repeat 0px 0px;}
+.title .english{height: 64px;text-align: right;padding-top: 25px;padding-right: 50px; }
+.title .zb{width: 148px;height: 35px;background: url(../img/zbtxt.gif)  no-repeat 0px 0px; float: left;}
+.menu{width:85px;height:35px;float: left;}
+.noline{width: 60px;}
+.content{width: 985px;height: 1200px;}
+.bottom{width: 985px;height: 118px;background: url(../img/logobg.png)  no-repeat 0px -89px}
