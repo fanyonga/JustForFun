@@ -4,16 +4,340 @@
 		"selected_items":
 		[
 			[
-				"text",
-				"text-decoration"
+				"fun",
+				"function"
 			],
 			[
-				"p",
-				"padding"
+				"da",
+				"data	.data()"
+			],
+			[
+				"sea",
+				"searchText"
+			],
+			[
+				"ke",
+				"keyup"
+			],
+			[
+				"bin",
+				"bind	.bind()"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"conso",
+				"console"
+			],
+			[
+				"inde",
+				"index	.index()"
+			],
+			[
+				"pa",
+				"parse	$.parseJSON()"
+			],
+			[
+				"dat",
+				"dataInt"
+			],
+			[
+				"off",
+				"offset〔function〕"
+			],
+			[
+				"po",
+				"position	(main2.js)"
+			],
+			[
+				"of",
+				"offset	.offset()"
+			],
+			[
+				"thi",
+				"this"
+			],
+			[
+				"su",
+				"suggest	(searchBox.html)"
+			],
+			[
+				"in",
+				"index	.index()"
+			],
+			[
+				"te",
+				"text	.text()"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"fon",
+				"font-size"
 			],
 			[
 				"li",
-				"link	Tag"
+				"line-height"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"con",
+				"content	Tag"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"se",
+				"search.css"
+			],
+			[
+				"h",
+				"http-equiv	Attr"
+			],
+			[
+				"cou",
+				"column-width"
+			],
+			[
+				"cla",
+				"class	(index.html)"
+			],
+			[
+				"e",
+				"each	.each()"
+			],
+			[
+				"la",
+				"lastBoxDis"
+			],
+			[
+				"out",
+				"outerHeight〔function〕"
+			],
+			[
+				"last",
+				"lastBox"
+			],
+			[
+				"ls",
+				"last-child〔function〕"
+			],
+			[
+				"sc",
+				"scroll	.scroll()"
+			],
+			[
+				"min",
+				"minIndex"
+			],
+			[
+				"bo",
+				"boxW"
+			],
+			[
+				"le",
+				"left	(main1.js)"
+			],
+			[
+				"pos",
+				"position	(main1.js)"
+			],
+			[
+				"lo",
+				"log	(main1.js)"
+			],
+			[
+				"box",
+				"boxs"
+			],
+			[
+				"mi",
+				"minH"
+			],
+			[
+				"cs",
+				"css	.css() - single"
+			],
+			[
+				"hA",
+				"hArr"
+			],
+			[
+				"is",
+				"isArray〔function〕"
+			],
+			[
+				"ap",
+				"apply	(main1.js)"
+			],
+			[
+				"ou",
+				"outerHeight	.outerHeight()"
+			],
+			[
+				"p",
+				"push〔function〕"
+			],
+			[
+				"boxs",
+				"boxs"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"col",
+				"cols"
+			],
+			[
+				"cls",
+				"clsName"
+			],
+			[
+				"fin",
+				"find〔function〕"
+			],
+			[
+				"on",
+				"onload	(main1.js)"
+			],
+			[
+				"j",
+				"jpg	(index.html)"
+			],
+			[
+				"im",
+				"images\\2	(index.html)"
+			],
+			[
+				"o_",
+				"o_parent"
+			],
+			[
+				"a",
+				"appendChild〔function〕"
+			],
+			[
+				"create",
+				"createElement〔function〕"
+			],
+			[
+				"las",
+				"lastBoxH"
+			],
+			[
+				"log",
+				"console.log();"
+			],
+			[
+				"do",
+				"documentElement〔variable〕"
+			],
+			[
+				"llog",
+				"console.log();"
+			],
+			[
+				"scro",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"o",
+				"o_boxs"
+			],
+			[
+				"onsc",
+				"onscroll〔function〕"
+			],
+			[
+				"css",
+				"cssText"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"get",
+				"getIndex"
+			],
+			[
+				"m",
+				"min〔function〕"
+			],
+			[
+				"el",
+				"elements"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"pare",
+				"parent	.parent()"
+			],
+			[
+				"sh",
+				"box-shadow"
+			],
+			[
+				"ht",
+				"http"
+			],
+			[
+				"I",
+				"Item2-2"
+			],
+			[
+				"It",
+				"Item2"
+			],
+			[
+				"Item",
+				"Item1"
+			],
+			[
+				"js",
+				"javascript"
+			],
+			[
+				"text",
+				"text-decoration"
 			],
 			[
 				"c",
@@ -26,10 +350,6 @@
 			[
 				"ov",
 				"overflow"
-			],
-			[
-				"wi",
-				"width"
 			],
 			[
 				"posi",
@@ -46,31 +366,11 @@
 			[
 				"htm",
 				"html	.html()"
-			],
-			[
-				"h",
-				"html	html"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "Index.html",
-			"settings":
-			{
-				"buffer_size": 2334,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/main.css",
-			"settings":
-			{
-				"buffer_size": 636,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -80,7 +380,7 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "",
+		"last_filter": "ip",
 		"selected_items":
 		[
 			[
@@ -88,12 +388,32 @@
 				"Package Control: Install Package"
 			],
 			[
-				"Package Control: ",
-				"Package Control: List Packages"
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"rp",
+				"Package Control: Remove Package"
+			],
+			[
+				"pip",
+				"Package Control: Install Package"
+			],
+			[
+				"mkp",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mdp",
+				"Markdown Preview: Preview in Browser"
 			],
 			[
 				"pci",
 				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
 			],
 			[
 				"Package Control:i ",
@@ -122,26 +442,47 @@
 	},
 	"expanded_folders":
 	[
-		"/home/fanyong/mygit/HTML/船舶交易",
-		"/home/fanyong/mygit/HTML/船舶交易/css",
-		"/home/fanyong/mygit/HTML/船舶交易/img"
+		"/home/fanyong/mygit/HTML/SearchBox",
+		"/home/fanyong/mygit/HTML/SearchBox/css",
+		"/home/fanyong/mygit/HTML/SearchBox/img",
+		"/home/fanyong/mygit/HTML/SearchBox/js",
+		"/home/fanyong/mygit/HTML/WaterfallLayout",
+		"/home/fanyong/mygit/HTML/WaterfallLayout/js"
 	],
 	"file_history":
 	[
+		"/home/fanyong/mygit/HTML/SearchBox/searchBox.html",
+		"/home/fanyong/mygit/HTML/SearchBox/css/search.css",
+		"/home/fanyong/mygit/HTML/SearchBox/js/search.js",
+		"/home/fanyong/mygit/HTML/WaterfallLayout/js/main2.js",
+		"/home/fanyong/mygit/HTML/WaterfallLayout/js/jquery-1.8.3.min.js",
+		"/home/fanyong/mygit/HTML/WaterfallLayout/js/main1.js",
+		"/home/fanyong/mygit/HTML/WaterfallLayout/css/main.css",
+		"/home/fanyong/mygit/HTML/船舶交易/css/main.css",
+		"/home/fanyong/mygit/HTML/searchBox",
+		"/home/fanyong/mygit/HTML/WaterfallLayout/index.html",
+		"/home/fanyong/mygit/HTML/WaterfallLayout/css/main2.css",
+		"/home/fanyong/.config/sublime-text-3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/home/fanyong/mygit/HTML/WaterfallLayout/gulpfile.js",
+		"/home/fanyong/mygit/HTML/index.html",
+		"/home/fanyong/mygit/HTML/船舶交易/Index.html",
+		"/home/fanyong/mygit/HTML/船舶交易/JS闭包.html",
+		"/home/fanyong/mygit/HTML/船舶交易/script/main.js",
+		"/home/fanyong/image.png",
+		"/home/fanyong/readMe.md",
 		"/home/fanyong/.config/sublime-text-3/Packages/User/Nodejs.sublime-settings",
 		"/home/fanyong/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 		"/home/fanyong/mygit/HTML/船舶交易/img/english.jpg",
 		"/home/fanyong/mygit/HTML/船舶交易/img/logobg.png",
 		"/home/fanyong/mygit/HTML/船舶交易/test.sublime-project",
 		"/home/fanyong/mygit/HTML/船舶交易/test",
-		"/home/fanyong/mygit/HTML/船舶交易/Index.html",
 		"/home/fanyong/桌面/test.html",
 		"/home/fanyong/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
 		"/home/fanyong/mygit/html/testhtml"
 	],
 	"find":
 	{
-		"height": 33.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -172,74 +513,14 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "Index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2334,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								197,
-								197
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"is_xml": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 162.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "css/main.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 636,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								544,
-								544
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 33.0
+		"height": 35.0
 	},
 	"input":
 	{
@@ -276,7 +557,7 @@
 	"project": "test.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 80.0
 	},
 	"save_all_on_build": true,
 	"select_file":

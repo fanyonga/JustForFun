@@ -1,0 +1,71 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-size: 17px;
+	background-color: #333;
+}
+#content{
+	width: 1228px;
+	height: 655px;
+	margin: 0 auto;
+	background-image: url(../img/river.jpg);
+	position: relative;
+}
+#content #searchBox{
+	position: absolute;
+	left: 300px;
+	top: 200px;
+	line-height: 50px;
+}
+#content #searchBox #logo{
+	margin: -10px 5px 0 0;
+	background-image: url(../img/logo.png);
+	width: 107px;
+	height: 53px;
+	float: left;
+}
+#content #searchBox form{
+	float: left;
+	background-color: #fff;
+	padding: 5px;
+}
+.input-text{
+	width: 300px;
+	height: 27px;
+	outline: none;
+	line-height: 27px;
+	float: left;
+	border: 0;
+}
+.input-button{
+	background-image: url(../img/search-button.png);
+	border: 0;
+	width: 29px;
+	height: 25px;
+	float: left;
+	cursor:pointer;
+}
+#content #searchBox #suggest{
+	position:absolute;
+	width: 337px;
+	left: 112px;
+	top:37px;
+	border: 1px solid #fff;
+	display: none;
+}
+#content #searchBox #suggest ul li{
+	list-style: none;
+	display: block;
+	background-color: #fff;
+	height: 25px;
+	line-height: 25px;
+	padding: 3px;
+	font-size: 14px;
+	cursor: pointer;
+}
+#content #searchBox #suggest ul li:hover{
+	text-decoration: underline;
+	background-color: #e5e5e5
+}
