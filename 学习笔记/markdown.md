@@ -45,7 +45,7 @@
 ![Alt Text](image.png)
 
 ## 插入链接
-	http://github.com
+	[Github](http://github.com)
 [Github](http://github.com)
 
 ## 区域引用
@@ -54,11 +54,19 @@
 As an old saying goes:
 >time is money
 
-## 语法高亮
 
 ##代码
 	I think you should use an '<addr>' element here instead
 I think you should use an '<addr>' element here instead
+
+## 代码块
+	```java
+	System.out.println("hello world !");
+	```
+
+```java
+	System.out.println("hello world !");
+```
 
 ## 任务列表
 	\- [x] 完成的任务
@@ -68,11 +76,13 @@ I think you should use an '<addr>' element here instead
 \- [ ] fault
 
 ## 表格
-	|table|Are|Cool|
-	|------- |:-----|-----:|
-	|asdas|asdas|sada|
-	|12|121|121|
-|table|Are|Cool|
-|------- |:-----|-----:|
-|asdas|asdas|sada|
-|12|121|121|
+\| table | Are | Cool |  
+\| ------- | :----- | -----: |  
+\| asdas | asdas | sada |  
+\| 12 | 121 | 121 |  
+
+
+| table | Are | Cool |
+| ------- | :----- | -----: |
+| asdas | asdas | sada |
+| 12 | 121 | 121 |
